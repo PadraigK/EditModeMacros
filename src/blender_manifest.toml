@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "edit_mode_switch"
+version = "1.0.0"
+name = "Edit Mode Switch"
+tagline = "Quick keyboard shortcuts for object and edit mode switching"
+maintainer = "Padraig O Cinneide"
+type = "add-on"
+tags = ["User Interface", "Modeling"]
+
+blender_version_min = "4.5.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
